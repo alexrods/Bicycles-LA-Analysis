@@ -1,5 +1,5 @@
 from .models import PredictionRequest
-from .tools import get_model, transform_to_df
+from .utils import get_model, transform_to_df
 
 
 model = get_model()
