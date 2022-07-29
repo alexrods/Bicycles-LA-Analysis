@@ -36,7 +36,7 @@ Notebook del [Analisis Exploratorio](https://github.com/alexrods/Bicycles-LA-Ana
 
 ## Modelo Predictivo
 
-En esta sección se desarrolo un modelo de clasificación con el objetivo de predecir el tipo de pase *Passholder_type* a partir del comportamiento del usuario. El modelo realiza clasificaciones con una precición del 70%.
+En esta sección se desarrolo un modelo de clasificación con el objetivo de predecir el tipo de pase *Passholder_type* a partir del comportamiento del usuario. El modelo realiza clasificaciones con una presición del 70%.
 
 Notebook del [Analísis Predictivo](https://github.com/alexrods/Bicycles-LA-Analysis/blob/main/ds_test_Analytics.ipynb)
 
